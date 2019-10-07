@@ -2,7 +2,7 @@
 
 Custom GTM template to easily deploy an event-specific pixel to track conversions.
 
-![Screenshot](https://github.com/kevinhaag/linkedin-event-pixel/blob/master/custom-gtm-event-triggers-linkedin-event-pixel.png)
+![Screenshot](https://github.com/kevinhaag/linkedin-event-pixel/blob/master/linkedin-event-pixel.png)
 
 ## Installation Instructions
 
