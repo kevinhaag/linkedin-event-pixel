@@ -40,7 +40,7 @@ ___TEMPLATE_PARAMETERS___
         "type": "POSITIVE_NUMBER"
       }
     ],
-    "displayName": "partnerId",
+    "displayName": "Partner ID",
     "simpleValueType": true,
     "name": "partnerId",
     "type": "TEXT",
@@ -57,7 +57,7 @@ ___TEMPLATE_PARAMETERS___
         "type": "POSITIVE_NUMBER"
       }
     ],
-    "displayName": "conversionId",
+    "displayName": "Conversion ID",
     "simpleValueType": true,
     "name": "conversionId",
     "type": "TEXT",
