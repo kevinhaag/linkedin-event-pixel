@@ -8,3 +8,4 @@ Custom GTM template to easily deploy an event-specific pixel to track conversion
 
 1. Download the Tag Template from the Template Gallery 
 
+![Screenshot (https://github.com/kevinhaag/linkedin-event-pixel/issues/2#issue-549724527)
