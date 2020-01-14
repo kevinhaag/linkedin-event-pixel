@@ -10,6 +10,7 @@ ___INFO___
 
 {
   "displayName": "LinkedIn Event Pixel",
+  "categories": ["SOCIAL","CONVERSIONS","ADVERTISING"],
   "description": "Easily deploy an event-specific pixel to track conversions.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
