@@ -18,8 +18,8 @@ versions:
 
 # Latest Version
 versions:
-  - sha: 8b1b963058f981e6831b59a9ff077de7821a0df5
-    changeNotes: Add template categories
+  - sha: c8012d0da8a24797df83f1f9e0e93b4190e5a674
+    changeNotes: Change capitalizations. 
  
 # Older Versions
   - sha: ddc76bfca3d7106387f971f1fa48e3251360887d
