@@ -17,12 +17,12 @@ documentation: "https://www.bounteous.com/insights/2019/05/28/custom-gtm-templat
 versions:
 
 # Latest Version
-- sha: 8b1b963058f981e6831b59a9ff077de7821a0df5
-changeNotes: |3
-    Add template categories
+ - sha: 8b1b963058f981e6831b59a9ff077de7821a0df5
+   changeNotes: |3
+   Add template categories
  
 # Older Versions
- - sha: ddc76bfca3d7106387f971f1fa48e3251360887d
+  - sha: ddc76bfca3d7106387f971f1fa48e3251360887d
     changeNotes: |2 
     Implement user-friendly values for the GTM input fields. 
   - sha: b95fcc2e94592096d13a93464d98ca4f40e584f4
