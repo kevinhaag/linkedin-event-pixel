@@ -4,11 +4,12 @@ versions:
 # Latest Version
 versions:
   - sha: c8012d0da8a24797df83f1f9e0e93b4190e5a674
-    changeNotes: Change capitalizations. 
+    changeNotes: |2 
+      Change capitalizations. 
  
 # Older Versions
   - sha: ddc76bfca3d7106387f971f1fa48e3251360887d
-    changeNotes: |2 
+    changeNotes:
     Implement user-friendly values for the GTM input fields. 
 
     
