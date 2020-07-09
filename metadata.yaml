@@ -2,7 +2,6 @@ homepage: "https://www.bounteous.com"
 documentation: "https://www.bounteous.com/insights/2019/05/28/custom-gtm-template-linkedin-event-tracking/"
 versions:
 # Latest Version
-versions:
   - sha: c8012d0da8a24797df83f1f9e0e93b4190e5a674
     changeNotes: |2 
       Change capitalizations. 
